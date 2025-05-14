@@ -1,0 +1,41 @@
+Codes,Arrivals,Departures,Header,Error bar,Error messages,Global,Airport->Overview,Self baggage drop,Icons,New basement,Old Basement,Messaging check in desks,Info sidebar /popup,Network tab,Emergency stop,Settings,Help,Sentiment
+Adaptation,,2,,3,1,2,1,,1,,,2,,,,,,Positive
+Allows Customisation,,,,,1,1,1,,,,,,1,,,,,Neutral
+Communication error,1,,,4,1,1,,2,,,,1,,,,,,Negative
+Communication of user error,2,,,,,,,,,,,,,,,,,Positive
+Confirmation from system,1,,,,,,,,,1,1,,,,,,,Positive
+Contempt,,,5,4,4,,,,,3,,,,,,,,Positive
+Contextual navigation,4,,,,,,4,,,2,3,,,,,,,Positive
+Critique of layout,,3,2,,1,,1,,,1,1,,,,,,,Negative
+Different hitbox sizes,2,,,,,,,,,,,,,,,,,Negative
+Distrust in funtionality,,,,,5,1,1,,1,1,1,1,,,1,,,Negative
+Domain Knowledge,4,,,4,3,,1,,1,1,1,,1,,1,,,Positive
+General confusion,1,,,,,,2,1,,,,,,,,1,1,Negative
+Hard to learn,3,1,,1,1,,1,1,,1,1,,,,,,1,Negative
+Inconsistencies,,,,,,,3,5,2,1,1,,,,2,1,,Negative
+Inteligible naming,3,4,5,,1,,,,,,,,,,,,,Positive
+Issues with visibility,,,,1,,,1,,1,,,,,,,,,Negative
+Layout/symbol confusion,,,,,,,1,,1,,1,,,,,,,Negative
+Necesary Functionality,,,,,,,,,,,,,,,,,,Positive
+Need for strong communication,,,,,,1,1,,1,,,,,,,,,Neutral
+Positional awareness,1,,,1,1,,1,,,1,1,,,,,,,Positive
+Praise of layout/icon,,,,1,,1,1,,,,,,,,,,,Positive
+Preference of older system,2,,,,1,,1,,1,1,1,,,,,1,,Negative
+Request for feature,5,,,1,,1,,,,1,1,,,,,,,Neutral
+Request for feature>Starta individuell bandel,1,,,,1,,,,,,,,,,,,,
+Request for feature>Test emergency stop,,,,,,1,,,,,,,,,,,,
+Request of feature > bärbar scada,,,,,,1,,,,,,,,,,,,
+Request of feature > Labels on screens,,,,,,,,,,1,1,,,,,,,
+Request of feature > Mouse speed control,,,,,,1,,,,,,,,,,,,
+Request of feature > Remove alarms,,,,1,,,,,,,,,,,,,,
+Request of feature -> Shortcut for acknowledge,,,,,1,,,,,,,,,,,,,
+Safe exploration,5,5,,,,1,,,,,,,,,,3,,Positive
+Trial and error,3,,,,,,,,,,,,,,1,,,Negative
+Two way navigation,,,,1,,,,,,,,,,,,,,Positive
+Unsafe exploration,,,,,,1,2,,,,,,,1,1,,,Negative
+Unused functionality>Baggage distance,,,,,,,1,,,,,,,,,,,
+Unused functionality>Change error bar height,,,,,,,,,,,,,,,,1,,
+Unused functionality>Desk message,,,,,,1,,,,,,,,,,,,
+Unused functionality>Help menu,,,1,,,,,,,,,,,,,,,
+Unused functionality,,,2,,,3,2,,1,,,4,,2,2,1,1,Neutral
+Use of a different system,3,,,,,,,,,,1,1,,,1,,,Neutral
